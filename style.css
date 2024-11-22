@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+
+.orqafon {
+height: 886px;
+background-image: url(./img/fon1.png);
+}
+.navbar button{
+  border-radius: 5px;
+width: 165px;
+height: 49px;
+border: 0;
+background: #F6762C;
+color: white;
+}
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1169px;
+  margin: 0 auto;
+}
+.navbar-content ul {
+  display: flex;
+  gap: 28px;
+
+  
+}
+.navbar-content a {
+  color: #ffff;
+  font-size: 14px;
+}
+.header {
+margin: 186px;
+margin-left: 229px;
+
+}
+.p1 {
+  font-size: 14px;
+}
+.h4{
+  margin-top: 6px;
+}
+.p2 {
+  margin-top: 37px;
+}
+.button {
+  color: #ffff;
+  background-color: #F6762C;
+  border: 0;
+  width: 165px;
+  height: 49px;
+  margin-top: 42px;
+  border-radius: 5px;
+}
+.orta {
+  padding-top: 130px;
+  margin-top: -150px;
+  height: 600px;
+   background-color: black;
+   width: 100%;
+
+}
+.orta-content {
+  
+  margin: 0 auto;
+
+}
+.burger-content {
+  height: 543px;
+  background-color: #312F30;
+  display: flex;
+  margin: 0 auto;
+ align-items: center;
+margin-top: 100px;
+justify-content: space-around;
+}
+.burger-content p {
+  margin-top: 24px;
+}
+.burger-content button {
+  background-color: #F6762C;
+  border: 0;
+  width: 165px;
+  height: 49px;
+  margin-top: 47px;
+  border-radius: 5px;
+}
+.narxlar {
+  background-color: black;
+}
+.capucino {
+  display: flex;
+  margin-top:   30px;
+  margin-left: 100px;
+}
+.reklama {
+
+padding-left: 200px;
+  background-color: black;
+  
+}
+.foter {
+  background-color: #312F30;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.foter button {
+  border: 0;
+  background-color: #F6762C;
+  width: 165px;
+  height: 49px;
+  border-radius: 5px;
+}
